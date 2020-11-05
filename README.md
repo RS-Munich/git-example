@@ -1,2 +1,3 @@
 # git-example
-Add a README file
+
+Repository used for demostratin different kinds of git features.
