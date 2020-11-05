@@ -2,7 +2,7 @@
 
 class ExampleClass {
 
-    function doSomtehing() {
+    function doSomething() {
 
     }
 }
