@@ -2,7 +2,10 @@
 
 class ExampleClass {
 
-    function doSomtehing() {
+    /**
+     * Does something.
+     */
+    function doSomething() {
 
     }
 }
